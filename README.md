@@ -26,7 +26,7 @@ The dataset includes:
 - Salesperson Information
 - Regional Data
 
-  < a href = "https://github.com/prathyusha-ly/Sales-Performace-Dashboard---Power-BI/tree/main/Sales%20Performance%20Dashboard"> click to view Data Set </a>
+  < a href = "" > click to view Data Set </a>
 ## 🔴 Live Dashboard
 <a href= "https://app.powerbi.com/groups/me/reports/81b2b749-dc89-4605-b08e-dcda53854a8e/7b0373c9e5b048270dd1?experience=power-bi"> View Dashboard </a>
 
